@@ -1,4 +1,4 @@
-const API_KEY = '504ec288'; // Replace with your OMDb API key
+const API_KEY = '504ec288'; 
 const searchBtn = document.getElementById('searchBtn');
 const queryInput = document.getElementById('query');
 const moviesContainer = document.getElementById('movies');
